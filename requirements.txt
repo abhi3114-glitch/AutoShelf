@@ -1,0 +1,4 @@
+# AutoShelf Dependencies
+# Note: Most dependencies are Python standard library
+# Optional: watchdog for file system monitoring (not required for basic functionality)
+watchdog>=3.0.0

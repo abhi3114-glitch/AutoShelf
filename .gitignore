@@ -1,0 +1,8 @@
+__pycache__/
+dist/
+build/
+*.spec
+.gemini/
+.autoshelf/
+AutoShelf_Demo/
+*.pyc
